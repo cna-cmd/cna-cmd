@@ -14,7 +14,7 @@ HTML / CSS / JavaScript / React / Redux /  Node / Express / Sequelize / PostgreS
 - 📫 How to reach me: Send me an email: c-n-a@outlook.com or connect with me on LinkedIn.
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carolinanarce/)  
+ [<img src='https://img.icons8.com/android/24/4a90e2/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/carolinanarce/)  
 
 <!--
 **cna-cmd/cna-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
