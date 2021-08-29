@@ -11,7 +11,7 @@ Skills:
 
 HTML / CSS / JavaScript / React / Redux /  Node / Express / Sequelize / PostgreSQL / MongoDB / Mongoose / SQLite / C# / VB.NET / Git.
 
-- 📫 How to reach me: Send me an email: c-n-a@outlook.com or connect with me on LinkedIn.
+How to reach me: Send me an email: c-n-a@outlook.com or connect with me on LinkedIn.
 
 
  [<img src='https://img.icons8.com/android/24/4a90e2/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/carolinanarce/)  
