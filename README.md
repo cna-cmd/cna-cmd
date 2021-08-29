@@ -5,7 +5,7 @@ About me:
 
 I am motivated by solving problems using technology, that can impact positively in peoples lives and help me become a better developer and programmer. I am very curious about everything, you'll always find me doing research, reading or learning something new, whichever the topic.
 
-I am currently looking for opportunities to challenge and improve my programming knowledge and expertise, and to contribute in small and big projects. I am particularly interested in front-end and back-end technologies, as well as testing.
+I am currently looking for opportunities to challenge and improve my programming knowledge and experience, and to contribute in small and big projects. I am particularly interested in front-end and back-end technologies, as well as testing.
 
 Skills: 
 
