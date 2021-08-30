@@ -3,9 +3,10 @@
 
 About me:
 
-I am motivated by solving problems using technology, that can impact positively in peoples lives and help me become a better developer and programmer. I am very curious about everything, you'll always find me doing research, reading or learning something new, whichever the topic.
+I graduated as a Systems Analyst in 2019. I am attending currently in the Full Stack Developer bootcamp and I am a Teaching Assistant at Henry's academy.
+I am motivated by solving problems using technology, which can positively impact people's in lives. I am very curious about everything, I am always researching, reading or learning something new.
 
-I am currently looking for opportunities to challenge and improve my programming knowledge and experience, and to contribute in small and big projects. I am particularly interested in front-end and back-end technologies, as well as testing.
+I am looking for opportunities to challenge and improve my programming knowledge and experience, and to contribute to projects small and large.
 
 Skills: 
 
