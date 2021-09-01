@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Carolina Arce
-![](https://cdn.pixabay.com/photo/2015/08/24/12/53/banner-904884__340.jpg)
+<!-- ![](https://cdn.pixabay.com/photo/2015/08/24/12/53/banner-904884__340.jpg) -->
 
 About me:
 
