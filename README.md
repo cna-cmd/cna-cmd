@@ -10,7 +10,7 @@ I am looking for opportunities to challenge and improve my programming knowledge
 
 Skills: 
 
-HTML / CSS / JavaScript / React / Redux /  Node / Express / Sequelize / PostgreSQL / MongoDB / Mongoose / SQLite / C# / VB.NET / Git.
+HTML / CSS / JavaScript / React / Redux /  Node / Express / Sequelize / PostgreSQL / Mongoose / MongoDB / .NET / SQL Server / Git.
 
 How to reach me: Send me an email: c-n-a@outlook.com or connect with me on LinkedIn.
 
