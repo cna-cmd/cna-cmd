@@ -3,7 +3,7 @@
 #### Hi there 👋, my name is Carolina.
 I graduated as a Systems Analyst in 2019. I am currently attending the Full Stack Developer bootcamp and I am a teaching assistant at Henry's academy. I am a very restless person, I am very curious about everything, I am always researching, reading or learning something new. I am motivated by problem solving and teamwork.
 
-I would be interested in being able to contribute to small or large projects, I would like the opportunity to improve or challenge my experience and knowledge in programming.
+I would be interested in being able to contribute in small or large projects, I would like to have the opportunity to improve or challenge my experience and knowledge in programming.
 
 
 ## Skills
