@@ -14,13 +14,13 @@ I would be interested in being able to contribute in small or large projects, I 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-MaterialUI-F2F2F2?style=flat&logo=materialui&logoColor=563D7C">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Redux-5E4194?style=flat&logo=redux&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express">
-<img src="https://img.shields.io/badge/-Sequelize ORM-1572B6?style=flat&logo=sequelize&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express-787878?style=flat&logo=express">
+<img src="https://img.shields.io/badge/-Sequelize-1572B6?style=flat&logo=sequelize&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-PostgreSQL-326590?style=flat&logo=postgresql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Mongoose ODM-880000?style=flat">
+<img src="https://img.shields.io/badge/-Mongoose-880000?style=flat">
 <img src="https://img.shields.io/badge/MongoDB-C9DDCA?style=flat&logo=mongodb">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
