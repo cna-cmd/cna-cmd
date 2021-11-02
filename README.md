@@ -10,7 +10,7 @@ I would be interested in being able to contribute in small or large projects, I 
 <p align="center">
 <img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Scss-CC6699?style=flat&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-MaterialUI-F2F2F2?style=flat&logo=materialui&logoColor=563D7C">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
