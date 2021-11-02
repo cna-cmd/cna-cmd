@@ -20,7 +20,7 @@ I would be interested in being able to contribute in small or large projects, I 
 <img src="https://img.shields.io/badge/-Express-787878?style=flat&logo=express">
 <img src="https://img.shields.io/badge/-Sequelize-1572B6?style=flat&logo=sequelize&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-PostgreSQL-326590?style=flat&logo=postgresql&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-SQL Server-FDFDFD?style=flat&logo=microsoftsqlserver&logoColor=A5292E">
+  <img src="https://img.shields.io/badge/-SQL Server-1E71B5?style=flat&logo=microsoftsqlserver&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat">
 <img src="https://img.shields.io/badge/MongoDB-C9DDCA?style=flat&logo=mongodb">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
