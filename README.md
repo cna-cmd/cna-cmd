@@ -30,7 +30,7 @@ I would be interested in being able to contribute in small or large projects, I 
 ## Languages
 
 - Spanish (native)
-- English (low intermediate)
+- English (upper intermediate)
 - Portuguese (intermediate)
 
 
