@@ -36,7 +36,7 @@ I would like to have the opportunity to contribute in small or large projects to
 
 ## How to reach me
 
-[<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:c-n-a@outlook.com) 
+[<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:carolinataliarce@gmail.com) 
 
 [<img src='https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social' alt='linkedin'>](https://www.linkedin.com/in/carolinanarce/)  
 
