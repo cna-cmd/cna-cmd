@@ -1,9 +1,9 @@
 ## About me
 
 #### Hi there 👋, my name is Carolina.
-I graduated as a Systems Analyst in 2019. I am currently attending the Full Stack Developer bootcamp and I am a teaching assistant at Henry's academy. I am a very restless person, I am very curious about everything, I am always researching, reading or learning something new. I am motivated by problem solving and teamwork.
+I graduated as a Systems Analyst in 2019. Currently graduated from the Full Stack Web Developer career at Henry. I am a very restless person, I am very curious about everything, I am always researching, reading or learning something new. I am motivated by problem solving and teamwork.
 
-I would like to have the opportunity to contribute in small or large projects to challenge myself, learn and learn about new technologies.
+I would like to have the opportunity to contribute in small or large projects to challenge myself, know and learn new technologies.
 
 
 ## Skills
@@ -36,7 +36,7 @@ I would like to have the opportunity to contribute in small or large projects to
 
 ## How to reach me
 
-[<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:carolinataliarce@gmail.com) 
+[<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:caro.n.arce@gmail.com) 
 
 [<img src='https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social' alt='linkedin'>](https://www.linkedin.com/in/carolinanarce/)  
 
