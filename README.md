@@ -1,9 +1,13 @@
 ## About me
 
 #### Hi there 👋, my name is Carolina.
-I graduated as a Systems Analyst in 2019. Currently graduated from the Full Stack Web Developer career at Henry. I am a very restless person, I am very curious about everything, I am always researching, reading or learning something new. I am motivated by problem solving and teamwork.
-
-I would like to have the opportunity to contribute in small or large projects to challenge myself, know and learn new technologies.
+• I graduated as a Systems Analyst in 2019. I am currently a graduate of the Full Stack Web Developer Career at Henry.
+<br>
+• I am a very restless person, I am very curious about everything, I am always researching, reading or learning something new.
+<br>
+• I am motivated by problem solving and teamwork.
+<br>
+• I would like to have the opportunity to contribute in small or large projects to challenge myself, know and learn new technologies.
 
 
 ## Skills
