@@ -34,7 +34,7 @@
 ## Languages
 
 - Spanish (native)
-- English (upper intermediate)
+- English (intermediate)
 - Portuguese (intermediate)
 
 
