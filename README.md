@@ -3,9 +3,9 @@
 #### Hi there 👋, my name is Carolina.
 • I graduated as a Systems Analyst in 2019. I am currently a graduate of the Full Stack Web Developer Career at Henry.
 <br>
-• I am a very restless person, I am very curious about everything, I am always researching, reading or learning something new.
+• I am motivated by the creation of solutions and teamwork.
 <br>
-• I am motivated by problem solving and teamwork.
+• I am a very curious person, I am always researching, reading or learning something new.
 <br>
 • I would like to have the opportunity to contribute in small or large projects to challenge myself, know and learn new technologies.
 
@@ -34,19 +34,18 @@
 
 ## My Projects
 
-<h3>Video Game</h3> <a href="https://github.com/pfEcommerce" target="_blank">Check the code</a>
+<h3>Video Game</h3> <a href="https://github.com/pfEcommerce" target="_blank">🔎Check the code</a>
 
 [![Video Game](https://github.com/cna-cmd/cna-cmd/blob/main/screenshotVideoGame.png)](https://drive.google.com/file/d/1t6cn0BQ98HPq9QftpDgqPYAOc9mVTokL/view?usp=sharing "Video Game")
 
-
-<h3>Pokemon App</h3> <a href="https://github.com/cna-cmd/PI-Pokemon" target="_blank">Check the code</a>
+<h3>Pokemon App</h3> <a href="https://github.com/cna-cmd/PI-Pokemon" target="_blank">🔎Check the code</a>
 
 <p>
    <img src="https://github.com/cna-cmd/cna-cmd/blob/main/screenshotHomeApi.png" >
 </p>
 
 
-<h3>Weather App</h3> <a href="https://github.com/cna-cmd/Weather-App" target="_blank">Check the code</a>
+<h3>Weather App</h3> <a href="https://github.com/cna-cmd/Weather-App" target="_blank">🔎Check the code</a>
 
 <p>
    <img src="https://github.com/cna-cmd/cna-cmd/blob/main/screenshotWeather.jpg" >
