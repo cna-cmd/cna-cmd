@@ -32,6 +32,7 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 </p>
 
+
 ## My Projects
 
 <h3>Video Game</h3> <a href="https://github.com/pfEcommerce" target="_blank">🔎Check the code</a>
@@ -40,16 +41,11 @@
 
 <h3>Pokemon App</h3> <a href="https://github.com/cna-cmd/PI-Pokemon" target="_blank">🔎Check the code</a>
 
-<p>
-   <img src="https://github.com/cna-cmd/cna-cmd/blob/main/screenshotHomeApi.png" >
-</p>
-
+[![PI-Pokemon](https://github.com/cna-cmd/cna-cmd/blob/main/screenshotHomeApi.png)](https://github.com/cna-cmd/PI-Pokemon "Pokemon App")
 
 <h3>Weather App</h3> <a href="https://github.com/cna-cmd/Weather-App" target="_blank">🔎Check the code</a>
 
-<p>
-   <img src="https://github.com/cna-cmd/cna-cmd/blob/main/screenshotWeather.jpg" >
-</p>
+[![Weather App](https://github.com/cna-cmd/cna-cmd/blob/main/screenshotWeather.jpg)](https://github.com/cna-cmd/Weather-App "Weather App")
 
 
 ## Languages
